@@ -1,4 +1,4 @@
-### Hi there 👋
+### Developing checkra1n online...
 
 <!--
 **w1nterst0rm/w1nterst0rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
